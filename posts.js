@@ -1,0 +1,5 @@
+// The Post Editor generates a replacement for this file when you publish a new article.
+window.PIMP_POSTS=[
+{date:'START HERE',category:'TEAM HQ',title:'WELCOME TO THE 5 PIN PIMPS',excerpt:'The lanes are open, the opinions are loud, and the score sheets are public record. This is your home for team news, recaps and bowling-night nonsense.',body:'Welcome to the official home of The 5 Pin Pimps. This is where the weekly stories live: big games, ugly splits, questionable calls, and moments that absolutely will not be allowed to fade quietly into history.'},
+{date:'COMING SOON',category:'LEAGUE NIGHT',title:'THE NEXT CHAPTER STARTS HERE',excerpt:'Your next weekly recap could live right here. Open the post editor and publish the latest news from the lanes.',body:'Replace this starter story with your own.'},
+{date:'COMING SOON',category:'BREAKING NONSENSE',title:'SOURCES SAY BOWLING MAY CONTINUE',excerpt:'Developing story: local team expected to return to the bowling alley despite all available evidence.',body:'Replace this starter story with your own.'}];
