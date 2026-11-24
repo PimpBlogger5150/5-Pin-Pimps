@@ -10,7 +10,7 @@ window.PIMP_DATA={roster:[
 shame:[
 {title:'Lowest Score',detail:'67 - Rob Binney - 01/15/2024',tag:'Grown Man?'},
 {title:'Pins Falling the Wrong Way',detail:'March Logan - Most of the 2023, 2024 and 2025',tag:'Tried Something New'},
-{title:'Falling and Striking',detail:'Dave Dancy - September 14, 2026 twice! Replicatd occsionally in league',tag:'Gotta be the Shoes'}],
+{title:'Falling and Striking',detail:'Dave Dancy - September 14, 2026 USBC sanctioned tournament - twice! Replicatd occsionally in league',tag:'Gotta be the Shoes'}],
 gallery:[{label:'LEAGUE NIGHT',image:''},{label:'THE CREW',image:''},{label:'MOMENTS OF GLORY',image:''}],
 standings:[
 {team:'THE 5 PIN PIMPS',wins:'—',losses:'—',points:'—',status:'AWAITING RESULTS'},
