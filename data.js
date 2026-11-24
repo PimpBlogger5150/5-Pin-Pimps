@@ -1,11 +1,11 @@
 // Edit this file to customize the roster, shame board, gallery and standings.
 window.PIMP_DATA={roster:[
 {number:'01',name:'Chris Hall',role:'Captain / alleged strategist, OG Pimp',average:'138'},
-{number:'02',name:'Chris Grider',role:'Trash-talking specialist' (perpetually below league average)',average:'171'},
+{number:'02',name:'Chris Grider',role:'Trash-talking specialist - perpetually below league average',average:'171'},
 {number:'03',name:'Marc Logan',role:'Le Grande Tickler, The Most Interesting Man in the World',average:'146'},
 {number:'04',name:'Doug Hall',role:'Chris Hall's big brother, Determined, Former Tickler',average:'162'},
 {number:'05',name:'Paul Askeland',role:'Defacto Captain, obsessed, stats nerd, beer',average:'211'}],
-{number:'06',name:'David Dancy',role:'Best bowling form, Club 296, Sixth Man of the Year 2025',average:'198'}],
+{number:'06',name:'David Dancy',role:'Perfect bowling form, Club 296, Sixth Man of the Year 2025',average:'198'}],
 {number:'07',name:'Jay Noel',role:'Newest Pimp, General Superhero, Here to save the Pimps from themselves',average:'200'}],
 shame:[
 {title:'Lowest Score',detail:'67 - Rob Binney - 01/15/2024',tag:'Grown Man?'},
