@@ -9,7 +9,7 @@ window.PIMP_DATA={roster:[
 {number:'07',name:'Jay Noel',role:'Newest Pimp, General Superhero, Here to save the Pimps from themselves',average:'200'}],
 shame:[
 {title:'Lowest Score',detail:'67 - Rob Binney - 01/15/2024',tag:'Grown Man?'},
-{title:'Pins Falling the Wrong Way',detail:'March Logan - Most of 2023, 2024 and 2025',tag:'Tried Something New'},
+{title:'Pins Falling the Wrong Way',detail:'Marc Logan - Most of 2023, 2024 and 2025',tag:'Tried Something New'},
 {title:'Falling and Striking',detail:'Dave Dancy - September 14, 2026 USBC sanctioned tournament - twice! Replicated occsionally in league',tag:'Gotta be the Shoes'}],
 gallery:[{label:'LEAGUE NIGHT',image:''},{label:'THE CREW',image:''},{label:'MOMENTS OF GLORY',image:''}],
 standings:[
