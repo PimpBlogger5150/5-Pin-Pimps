@@ -11,7 +11,7 @@ shame:[
 {title:'Lowest Score',detail:'67 - Rob Binney - 01/15/2024',tag:'Grown Man?'},
 {title:'Pins Falling the Wrong Way',detail:'Marc Logan - Most of 2023, 2024 and 2025',tag:'Tried Something New'},
 {title:'Falling and Striking',detail:'Dave Dancy - September 14, 2026 USBC sanctioned tournament - twice! Replicated occsionally in league',tag:'Gotta be the Shoes'}],
-gallery:[{label:'LEAGUE NIGHT',image:''},{label:'THE CREW',image:''},{label:'MOMENTS OF GLORY',image:''}],
+gallery:[{label:'5 Pin Pimps',image:'b.png'},{label:'5 Pin Pimps',image:'a.jpg'},{label:'5 Pin Pimps',image:'9.jpg'},{label:'5 Pin Pimps',image:'8.jpg'},{label:'5 Pin Pimps',image:'7.jpg'},{label:'5 Pin Pimps',image:'6.jpg'},{label:'5 Pin Pimps',image:'5.jpg'},{label:'5 Pin Pimps',image:'4.jpg'},{label:'5 Pin Pimps',image:'3.jpg'},{label:'5 Pin Pimps',image:'20.png'},{label:'5 Pin Pimps',image:'2.png'},{label:'5 Pin Pimps',image:'19.png'},{label:'5 Pin Pimps',image:'18.jpg'},{label:'5 Pin Pimps',image:'17.png'},{label:'5 Pin Pimps',image:'16.png'},{label:'5 Pin Pimps',image:'15.png'},{label:'5 Pin Pimps',image:'14.png'},{label:'5 Pin Pimps',image:'13.png'},{label:'5 Pin Pimps',image:'12.png'},{label:'5 Pin Pimps',image:'1.png'},{label:'5 Pin Pimps',image:'10.jpg'},{label:'5 Pin Pimps',image:'11.png'}],
 standings:[
 {team:'THE 5 PIN PIMPS',wins:'—',losses:'—',points:'—',status:'AWAITING RESULTS'},
 {team:'OPPONENTS',wins:'—',losses:'—',points:'—',status:'TBD'},
